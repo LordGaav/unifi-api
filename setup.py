@@ -10,7 +10,7 @@ elif sys.version_info[0] == 3:
 
 
 setup(name='unifi',
-      version='1.2.5',
+      version='1.2.6beta',
       description='API towards Ubiquity Networks UniFi controller',
       author='Jakob Borg',
       author_email='jakob@nym.se',
